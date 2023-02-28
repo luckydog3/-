@@ -1,0 +1,4 @@
+﻿  Linklist.cpp
+C:\Users\luqi\Desktop\文件\学习\数据结构\链表\Linklist\Linklist\Linklist.cpp(9,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(965): message : 参见“OVERFLOW”的前一个定义
+  Linklist.vcxproj -> C:\Users\luqi\Desktop\文件\学习\数据结构\链表\Linklist\x64\Debug\Linklist.exe

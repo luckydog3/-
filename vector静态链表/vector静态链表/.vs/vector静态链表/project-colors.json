@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "add1b6a5-68b7-4ef5-bb68-c068b26bebd8": {
+      "ProjectGuid": "add1b6a5-68b7-4ef5-bb68-c068b26bebd8",
+      "DisplayName": "vector静态链表",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
